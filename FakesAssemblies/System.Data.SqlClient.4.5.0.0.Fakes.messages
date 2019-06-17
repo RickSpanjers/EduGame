@@ -1,0 +1,5 @@
+D:\Users\basba\Documents\S4 Software\Open Innovation\EduGame\edugame\Fakes\System.Data.SqlClient.fakes : warning : Cannot generate stub for FxResources.System.Data.SqlClient.SR: type is sealed.
+D:\Users\basba\Documents\S4 Software\Open Innovation\EduGame\edugame\Fakes\System.Data.SqlClient.fakes : warning : Cannot generate stub for System.SR: type is sealed.
+D:\Users\basba\Documents\S4 Software\Open Innovation\EduGame\edugame\Fakes\System.Data.SqlClient.fakes : warning : Cannot generate shim for FxResources.System.Data.SqlClient.SR: type is not visible to exported or assembly(System.Data.SqlClient.4.5.0.0.Fakes).
+D:\Users\basba\Documents\S4 Software\Open Innovation\EduGame\edugame\Fakes\System.Data.SqlClient.fakes : warning : Cannot generate shim for System.SR: type is not visible to exported or assembly(System.Data.SqlClient.4.5.0.0.Fakes).
+D:\Users\basba\Documents\S4 Software\Open Innovation\EduGame\edugame\Fakes\System.Data.SqlClient.fakes : warning : compilation failed, retrying without Code Contracts

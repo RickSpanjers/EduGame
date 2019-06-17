@@ -1,0 +1,7 @@
+{"id":1, "hp":"3", "damage":"10", "name":"BOSS ONE", "description":"The Very First Boss", "Challenge": [{"id": 1,"name": "First Challenge","description": "First challenge description",
+"questions": [
+{
+"id": 1,"question": "Question 01",
+"answer":"Answer 01"}]
+}
+]}
